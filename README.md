@@ -1,4 +1,4 @@
-# AppointEase - AN AI Appointment Scheduling Chatbot
+# AppointEase - An AI Appointment Scheduling Chatbot
 
 This repository contains a fully integrated AI-based chatbot system for scheduling appointments using Google Calendar. The project leverages OpenAI's GPT API for conversational interactions, integrates with Google Calendar to manage scheduling events, and allows for function calling to interact with external APIs like Google Calendar and Google Docs. Users can interact with the chatbot through a graphical user interface (GUI), where they can provide event details, and the system will automatically schedule appointments on their Google Calendar or fetch the user's schedule from Google Docs.
 
